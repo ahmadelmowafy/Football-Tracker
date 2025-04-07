@@ -1,6 +1,6 @@
 # ⚽ Fantasy Football Tracker
 
-Football Tracker is a full-stack app that lets football (soccer) fans build custom fantasy XI teams and log matches with detailed stats. Whether you're crafting your dream lineup or analyzing match performance, it's a fun and easy way to stay immersed in the game. Player tracking features coming soon!
+[Football Tracker](http://ec2-18-218-138-153.us-east-2.compute.amazonaws.com/) is a full-stack app that lets football (soccer) fans build custom fantasy XI teams and log matches with detailed stats. Whether you're crafting your dream lineup or analyzing match performance, it's a fun and easy way to stay immersed in the game. Player tracking features coming soon!
 
 ## 🚀 Features
 - User authentication (sign up, sign in, or continue as guest)
