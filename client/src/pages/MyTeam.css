@@ -1,0 +1,98 @@
+.my-team-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.team-form label,
+.players-section h3 {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.team-form input {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  width: 100%;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.players-section {
+  margin-top: 2rem;
+}
+
+.player-entry {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+  align-items: center;
+}
+
+.player-entry input {
+  flex: 1;
+}
+
+.player-entry button {
+  background-color: transparent;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+button[type='submit'],
+button[type='button'] {
+  padding: 0.6rem 1.2rem;
+  margin-top: 1rem;
+  font-weight: bold;
+  background-color: #4c66c3;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.error-msg {
+  color: red;
+  font-weight: bold;
+  text-align: center;
+}
+
+.success-msg {
+  color: green;
+  font-weight: bold;
+  text-align: center;
+}
+
+.fill-btn {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem 1rem;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: white;
+  background-color: #6c7ae0;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.clear-btn {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem 1rem;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: white;
+  background-color: #d9534f;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
