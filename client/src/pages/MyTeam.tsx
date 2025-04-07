@@ -49,7 +49,7 @@ export default function MyTeam() {
       },
       {
         name: 'João Cancelo',
-        number: 20,
+        number: 22,
         country: 'Portugal',
         position: 'Defender',
       },
